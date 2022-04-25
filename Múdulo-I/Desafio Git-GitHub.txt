@@ -1,0 +1,36 @@
+		Um lembrete pro Franklin do Futuro :D
+	Entrando agora no mundo da programação.
+Esse é o primeiro desafio q estou de fato entregando na 
+plataforma da DIO e espero q saja apenas o primeiro de muitos. 25/04/2022
+	Há! Eu ja estou no módulo IV de fato, porém só agora resolvi fazer os
+desafios, um pouco por falta de tempo, um pouco pela ansiedade em 
+terminar as aulas, um pouco por preguiça e talvez bastante por algumas
+dificuldades.
+	Bom, encontrei algumas dificuldades pelo caminho(e ainda estou
+encontrando hahahaha), talvez meu despreparo e imaturidade devessem 
+levar o crédito por isso, mas bola pra frente, é olhar pro passado
+apenas pra poder ver onde errei e seguir melhorando e me aperfeiçoando,
+afinal lamentar não vai levar a nd.
+	Até os presentes módulos q fiz, tive uma dificuldade tremenda com 
+o Git hahahahaha, nossa, a primeira vista foi algo assustador, 
+interessante e desafiador diga-se de passagem, mas isso no meu
+primeiro contato com essa ferramenta. Hoje fazendo  desafio me senti bem
+mais a vontade com ela e tive uma certa "facilidade" com a mesma,
+mesmo antes de dar o famigerado commit e saber se realmente a tarefa 
+será concluída kkkkkkk.
+	Mas enfim, fazendo algumas observações aqui, tivemos algumas
+dificuldades com o módulo do JavaScript, tivemos q recorrer a outras aulas
+por aí pra tentar seguir adiante com nosso aprendizado, ainda estou
+com certos probleminhas e com medo do nosso prazo pra concluir o bootcamp 
+seja mto curto, visto q ainda estamos na faculdade e temos algumas
+tarefas chatas para nos preocupar, mas é o tal do carro apertado q anda ^^, 
+hj ainda não sei identificar de fato nossa dificuldade com o módulo do JavaScript
+mas parece q faltou a introdução ao tema e alguns comandos básicos, mas a parte 
+lecionada aparentemente tinha qualidade.
+	Com isso vou me encerrar por aqui, e tentar commitar esse trem pq ja estou ansioso
+e esse exercício de escrita ta sendo algo realmente interessante, estou gostando
+mto de escrever esse texto, e vou upar ele sem correções nem nd, do jeito q for foi,
+ocê aí no futuro vai estar com mais tempo de sobra então se vira e me da esse help.
+	Espero q me responda num futuro meu patrão, vai ser gratificante poder ter seu
+feedback.
+	Akele abraço do Frangão!!! 
